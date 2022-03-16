@@ -1,4 +1,4 @@
-function StopWatch() {
+function Index() {
   return (
     <div>
       Hello world
@@ -6,4 +6,4 @@ function StopWatch() {
   )
 }
 
-export default StopWatch
+export default Index
